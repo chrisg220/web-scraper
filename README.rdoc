@@ -1,0 +1,6 @@
+== Web Scraper
+
+This program scrapes content from specified domains. Is capable of scraping paginated sites.
+
+
+
