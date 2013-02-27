@@ -1,3 +1,6 @@
+# Christopher Gonzales
+# This script scrapes blog posts
+
 from BeautifulSoup import BeautifulSoup
 import mechanize
 import time
